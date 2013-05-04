@@ -30,4 +30,16 @@
     
 }
 
+-(void)tapTextField{
+    
+}
+
+-(void)show{
+    
+}
+
+-(void)branch{
+    
+}
+
 @end
