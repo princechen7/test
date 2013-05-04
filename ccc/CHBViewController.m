@@ -30,4 +30,8 @@
     
 }
 
+-(void)tapTextField{
+    
+}
+
 @end
