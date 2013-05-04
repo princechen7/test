@@ -30,12 +30,4 @@
     
 }
 
--(void)tapTextField{
-    
-}
-
--(void)resignFirstResponderr{
-    
-}
-
 @end
