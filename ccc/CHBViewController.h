@@ -10,5 +10,6 @@
 
 @interface CHBViewController : UIViewController
 @property (nonatomic)int a;
+@property (nonatomic,assign) int i;
 
 @end
